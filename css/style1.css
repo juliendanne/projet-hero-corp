@@ -1,0 +1,24 @@
+/*header*/
+#logo   {text-align: center; padding-top: 40px;}
+
+    #logo h1 {font-family: Bahnschrift Condensed; font-size: 60px;text-align: center;padding-top: 50px; padding-bottom: 50px;}
+    #logo .serie  {font-size: 20px; color: white; background-color: black; padding: 5px;}
+
+
+
+
+
+/*contenu*/
+#présentation {padding-left: 30px; padding-right: 30px; background-color: #DDDDDD; padding-top: 30px; margin-top: 30px;margin-left: 450px; margin-right: 450px; padding-bottom: 30px;}
+#présentation h1      {font-family: Bahnschrift Condensed; font-size: 40px;text-align: center;}
+#présentation .logo2    {width: 200px; text-align: center; padding-top: 30px; padding-bottom: 30px;}
+#présentation .définition   {font-family: Arial; font-size: 20px;}
+#présentation .définitionitalique {font-family: Arial Light; font-size: 15px; font-style: italic;}
+#présentation h2    {font-family: Bahnschrift Condensed; font-size: 30px;text-align: center; color: #8B0000; padding-top: 30px; padding-bottom: 30px;}
+p {font-family: Arial; font-size: 20px;}
+
+
+
+
+/*footer*/
+#footer {font-family: Arial; font-size: 20px; background-color: #DDDDDD; padding-top: 50px; margin-top: 20px; margin-left: 10px; margin-right: 10px; text-align: center; padding-bottom: 100px;}
